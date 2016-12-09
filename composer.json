@@ -1,5 +1,5 @@
 {
-    "name": "matthiasmullie/minify",
+    "name": "intelogie/minify",
     "type": "library",
     "description": "CSS & JS minifier",
     "keywords": ["minify", "minifier", "css", "js", "javascript"],
